@@ -18,11 +18,15 @@ Given the input `"Life is beautiful"`, the output should be:
 
 ## Example Input/Output:
 
-### Input: "Life is beautiful"
+### Input: 
+"Life is beautiful"
 
 
 
 ### Output:
+
+Hello, World!  
+Life is beautiful  
 
 
 
