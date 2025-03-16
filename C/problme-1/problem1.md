@@ -18,7 +18,7 @@ Given the input `"Life is beautiful"`, the output should be:
 
 ## Example Input/Output:
 
-### Input:
+### Input: "Life is beautiful"
 
 
 
